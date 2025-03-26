@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kristoville
 - 👀 I’m interested in creating application and back-end developing
-- 🌱 I’m currently learning PHP and Python
+- 🌱 I’m currently learning LLM in Data science
 - 💞️ I’m looking to collaborate on being better in both language while interning under a mentor maybe
 - 📫 How to reach me is via my email address kristoville@gmail.com
 
